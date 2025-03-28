@@ -1,0 +1,15 @@
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\Personajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\Personajes.AssemblyInfoInputs.cache
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\Personajes.AssemblyInfo.cs
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\Personajes.csproj.CoreCompileInputs.cache
+C:\Users\PC13\Desktop\Personajes\bin\Debug\net8.0\Personajes.exe
+C:\Users\PC13\Desktop\Personajes\bin\Debug\net8.0\Personajes.deps.json
+C:\Users\PC13\Desktop\Personajes\bin\Debug\net8.0\Personajes.runtimeconfig.json
+C:\Users\PC13\Desktop\Personajes\bin\Debug\net8.0\Personajes.dll
+C:\Users\PC13\Desktop\Personajes\bin\Debug\net8.0\Personajes.pdb
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\Personajes.dll
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\refint\Personajes.dll
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\Personajes.pdb
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\Personajes.genruntimeconfig.cache
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\ref\Personajes.dll
+C:\Users\PC13\Desktop\Personajes\obj\Debug\net8.0\Personajes.sourcelink.json
